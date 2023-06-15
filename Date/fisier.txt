@@ -1,0 +1,5 @@
+1,Pietroiu Robert,8.45
+2,Popescu Mihai,9.25
+3,Tetea Ionut,8.28
+4,Dorobantiu Mihaela,7.25
+5,Golescu Iuliana,7.48
